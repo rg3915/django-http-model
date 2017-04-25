@@ -6,9 +6,7 @@ A Django Manager for HTTP data using the well-known Django ORM interface
 
 ## Installation
 
-```bash
-pip install django-http-model
-```
+This package is not in PyPI
 
 ## Usage
 
