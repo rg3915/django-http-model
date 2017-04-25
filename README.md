@@ -6,7 +6,7 @@ A Django Manager for HTTP data using the well-known Django ORM interface
 
 ## Installation
 
-This package is not in PyPI
+This package is not in PyPI. We'll add as soon as possible
 
 ## Usage
 
